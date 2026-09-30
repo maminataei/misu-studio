@@ -1,8 +1,10 @@
 # Platform Integration Guide
 
-**Status:** Authoritative  
-**Audience:** Commerce-platform engineers  
-**Owner:** Integration maintainers
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Commerce-platform engineers\
+**Owner:** Integration maintainers\
+**Related:** [Integrations index](./README.md)\
 
 ## Integration responsibilities
 

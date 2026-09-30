@@ -1,7 +1,11 @@
 # ADR-0003: Shared Renderer Contracts
 
-**Status:** Accepted  
-**Date:** 2026-09-30
+**Status:** Accepted\
+**Authority:** Normative architectural decision\
+**Audience:** Contributors, reviewers, and implementers\
+**Owner:** Architecture maintainers\
+**Related:** [Renderer conformance protocol](../specifications/06-renderer-conformance-protocol.md)\
+**Date:** 2026-09-30\
 
 ## Context
 

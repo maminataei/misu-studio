@@ -1,8 +1,10 @@
 # Security
 
-**Status:** Authoritative  
-**Audience:** Security, engineering, operations, integrators  
-**Owner:** Security maintainers
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Security, engineering, operations, integrators\
+**Owner:** Security maintainers\
+**Related:** [Documentation index](../README.md)\
 
 Security requirements are release gates. Product convenience, plugins, AI, and
 support tooling cannot bypass them.

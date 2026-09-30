@@ -1,8 +1,10 @@
 # Failure Modes and Runbooks
 
-**Status:** Authoritative  
-**Audience:** Operators, support, reliability  
-**Owner:** Reliability area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Operators, support, reliability\
+**Owner:** Reliability area\
+**Related:** [Operations index](./README.md)\
 
 | Failure | Product behavior | Operator action |
 | --- | --- | --- |

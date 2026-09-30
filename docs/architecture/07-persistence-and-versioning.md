@@ -1,8 +1,10 @@
 # Persistence and Versioning
 
-**Status:** Authoritative  
-**Audience:** Backend, database, migration, and operations engineers  
-**Owner:** Persistence area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Backend, database, migration, and operations engineers\
+**Owner:** Persistence area\
+**Related:** [Architecture index](./README.md)\
 
 ## Storage model
 

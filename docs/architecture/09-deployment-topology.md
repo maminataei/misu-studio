@@ -1,8 +1,10 @@
 # Deployment Topology
 
-**Status:** Authoritative  
-**Audience:** Operators, platform engineers, security  
-**Owner:** Operations architecture area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Operators, platform engineers, security\
+**Owner:** Operations architecture area\
+**Related:** [Architecture index](./README.md)\
 
 ## Supported topology
 

@@ -1,8 +1,10 @@
 # Supply Chain and Plugin Trust
 
-**Status:** Authoritative  
-**Audience:** Release, registry, integrators, security  
-**Owner:** Supply-chain security area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Release, registry, integrators, security\
+**Owner:** Supply-chain security area\
+**Related:** [Security index](./README.md)\
 
 ## Official releases
 

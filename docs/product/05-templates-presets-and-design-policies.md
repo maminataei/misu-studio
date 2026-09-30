@@ -1,8 +1,10 @@
 # Templates, Presets, and Design Policies
 
-**Status:** Authoritative  
-**Audience:** Designers, platform integrators, editor engineering  
-**Owner:** Template ecosystem area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Designers, platform integrators, editor engineering\
+**Owner:** Template ecosystem area\
+**Related:** [Product index](./README.md)\
 
 ## Artifact types
 

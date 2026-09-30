@@ -1,8 +1,10 @@
 # Product Specification
 
-**Status:** Authoritative  
-**Audience:** Product, design, engineering, QA, operations, integrators  
-**Owner:** Commerce Studio maintainers
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Product, design, engineering, QA, operations, integrators\
+**Owner:** Commerce Studio maintainers\
+**Related:** [Documentation index](../README.md)\
 
 These documents define the product independent of a particular renderer or
 commerce platform. Technical documents MUST implement these requirements

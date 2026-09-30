@@ -1,8 +1,10 @@
 # Command and Changeset Protocol
 
-**Status:** Authoritative protocol  
-**Audience:** Core, editor, API, AI, audit  
-**Owner:** Command protocol area
+**Status:** Authoritative protocol\
+**Authority:** Normative within its stated scope\
+**Audience:** Core, editor, API, AI, audit\
+**Owner:** Command protocol area\
+**Related:** [Specifications index](./README.md)\
 
 ## Command envelope
 

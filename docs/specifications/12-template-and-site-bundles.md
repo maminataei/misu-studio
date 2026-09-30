@@ -1,8 +1,10 @@
 # Template and Site Bundles
 
-**Status:** Authoritative protocol  
-**Audience:** CLI, API, template authors, operators  
-**Owner:** Portability area
+**Status:** Authoritative protocol\
+**Authority:** Normative within its stated scope\
+**Audience:** CLI, API, template authors, operators\
+**Owner:** Portability area\
+**Related:** [Specifications index](./README.md)\
 
 ## Template artifacts
 

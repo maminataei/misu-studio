@@ -1,8 +1,10 @@
 # Preview and Browser Isolation
 
-**Status:** Authoritative  
-**Audience:** Editor, SDK, preview, web security  
-**Owner:** Browser security area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Editor, SDK, preview, web security\
+**Owner:** Browser security area\
+**Related:** [Security index](./README.md)\
 
 ## Origins and CSP
 

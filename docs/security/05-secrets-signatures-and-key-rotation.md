@@ -1,8 +1,10 @@
 # Secrets, Signatures, and Key Rotation
 
-**Status:** Authoritative  
-**Audience:** Security, API, operations, renderer integrators  
-**Owner:** Cryptographic operations area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Security, API, operations, renderer integrators\
+**Owner:** Cryptographic operations area\
+**Related:** [Security index](./README.md)\
 
 ## Secret classes
 

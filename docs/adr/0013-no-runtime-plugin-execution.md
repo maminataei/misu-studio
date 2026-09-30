@@ -1,7 +1,11 @@
 # ADR-0013: No Runtime Plugin Execution in Studio
 
-**Status:** Accepted  
-**Date:** 2026-09-30
+**Status:** Accepted\
+**Authority:** Normative architectural decision\
+**Audience:** Contributors, reviewers, and implementers\
+**Owner:** Architecture maintainers\
+**Related:** [Supply-chain trust](../security/04-supply-chain-and-plugin-trust.md)\
+**Date:** 2026-09-30\
 
 ## Context
 

@@ -1,8 +1,10 @@
 # Threat Model
 
-**Status:** Authoritative  
-**Audience:** Security reviewers and all implementers  
-**Owner:** Security maintainers
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Security reviewers and all implementers\
+**Owner:** Security maintainers\
+**Related:** [Security index](./README.md)\
 
 ## Protected assets
 

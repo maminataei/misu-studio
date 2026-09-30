@@ -1,8 +1,10 @@
 # Domain and Tenancy Model
 
-**Status:** Authoritative  
-**Audience:** API, persistence, authorization, operations  
-**Owner:** Platform architecture area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** API, persistence, authorization, operations\
+**Owner:** Platform architecture area\
+**Related:** [Architecture index](./README.md)\
 
 ## Resource hierarchy
 

@@ -1,8 +1,10 @@
 # Kubernetes and Helm Deployment
 
-**Status:** Authoritative beta packaging  
-**Audience:** Platform and SRE teams  
-**Owner:** Operations maintainers
+**Status:** Authoritative beta packaging\
+**Authority:** Normative within its stated scope\
+**Audience:** Platform and SRE teams\
+**Owner:** Operations maintainers\
+**Related:** [Operations index](./README.md)\
 
 ## Chart resources
 

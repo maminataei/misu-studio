@@ -1,8 +1,10 @@
 # Control Plane and Worker Runtime
 
-**Status:** Authoritative  
-**Audience:** Backend and operations engineers  
-**Owner:** Control-plane area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Backend and operations engineers\
+**Owner:** Control-plane area\
+**Related:** [Architecture index](./README.md)\
 
 ## API
 

@@ -1,9 +1,10 @@
 # Product Charter
 
-**Status:** Authoritative  
-**Audience:** All contributors and integrators  
-**Owner:** Product maintainers  
-**Related:** [System architecture](../architecture/00-system-architecture.md)
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** All contributors and integrators\
+**Owner:** Product maintainers\
+**Related:** [System architecture](../architecture/00-system-architecture.md)\
 
 ## Purpose
 

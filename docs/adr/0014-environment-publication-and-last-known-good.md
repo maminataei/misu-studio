@@ -1,7 +1,11 @@
 # ADR-0014: Atomic Publication and Last Known Good
 
-**Status:** Accepted  
-**Date:** 2026-09-30
+**Status:** Accepted\
+**Authority:** Normative architectural decision\
+**Audience:** Contributors, reviewers, and implementers\
+**Owner:** Architecture maintainers\
+**Related:** [Readiness and publication](../specifications/10-readiness-approval-and-publication.md)\
+**Date:** 2026-09-30\
 
 ## Context
 

@@ -1,8 +1,18 @@
 # Commerce Studio
 
-Commerce Studio is a self-hosted control plane for authoring, validating, versioning, previewing, and publishing semantic commerce template maps. Host platforms provide renderer implementations that interpret those maps and combine them with authoritative commerce data and actions.
+**Status:** Foundation specification\
+**Authority:** Repository entry point; linked specifications are normative\
+**Audience:** Contributors, integrators, operators, and evaluators\
+**Owner:** Commerce Studio maintainers\
+**Related:** [Documentation index](./docs/README.md)\
 
-This repository is the authoritative home of the product, architecture, protocol, security, operations, integration, and delivery specifications for Commerce Studio.
+Commerce Studio is a self-hosted control plane for authoring, validating,
+versioning, previewing, and publishing semantic commerce template maps. Host
+platforms provide renderer implementations that interpret those maps and
+combine them with authoritative commerce data and actions.
+
+This repository is the authoritative home of the product, architecture,
+protocol, security, operations, integration, and delivery specifications.
 
 ## Status
 

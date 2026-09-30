@@ -1,8 +1,10 @@
 # Marketplace Package Authoring
 
-**Status:** Authoritative future contract  
-**Audience:** Ecosystem publishers and registry implementers  
-**Owner:** Marketplace area
+**Status:** Authoritative future contract\
+**Authority:** Normative within its stated scope\
+**Audience:** Ecosystem publishers and registry implementers\
+**Owner:** Marketplace area\
+**Related:** [Integrations index](./README.md)\
 
 ## Package boundary
 

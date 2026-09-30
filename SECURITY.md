@@ -1,5 +1,11 @@
 # Security Policy
 
+**Status:** Active\
+**Authority:** Normative vulnerability disclosure policy\
+**Audience:** Users, operators, security researchers, and maintainers\
+**Owner:** Security maintainers\
+**Related:** [Security specifications](./docs/security/README.md)\
+
 ## Reporting
 
 Do not report suspected vulnerabilities in public issues. Use GitHub private

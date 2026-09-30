@@ -1,8 +1,10 @@
 # Renderer Conformance Protocol
 
-**Status:** Authoritative protocol  
-**Audience:** Renderer developers, CLI, registry, QA  
-**Owner:** Conformance area
+**Status:** Authoritative protocol\
+**Authority:** Normative within its stated scope\
+**Audience:** Renderer developers, CLI, registry, QA\
+**Owner:** Conformance area\
+**Related:** [Specifications index](./README.md)\
 
 ## Certification input
 

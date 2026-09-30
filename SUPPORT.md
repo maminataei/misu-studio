@@ -1,5 +1,11 @@
 # Support
 
+**Status:** Active\
+**Authority:** Normative project support policy\
+**Audience:** Users, integrators, and operators\
+**Owner:** Commerce Studio maintainers\
+**Related:** [Operations](./docs/operations/README.md)\
+
 ## Community support
 
 Use repository discussions for usage questions and public issues for verified

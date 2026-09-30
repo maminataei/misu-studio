@@ -1,8 +1,10 @@
 # Misu Integration
 
-**Status:** Authoritative integration specification  
-**Audience:** Misu and Commerce Studio implementers  
-**Owner:** Misu integration area
+**Status:** Authoritative integration specification\
+**Authority:** Normative within its stated scope\
+**Audience:** Misu and Commerce Studio implementers\
+**Owner:** Misu integration area\
+**Related:** [Integrations index](./README.md)\
 
 ## Purpose
 

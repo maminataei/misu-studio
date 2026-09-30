@@ -1,8 +1,10 @@
 # Content, Assets, Localization, and SEO
 
-**Status:** Authoritative  
-**Audience:** Product, content design, asset services, renderer developers  
-**Owner:** Content platform area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Product, content design, asset services, renderer developers\
+**Owner:** Content platform area\
+**Related:** [Product index](./README.md)\
 
 ## Content ownership
 

@@ -1,8 +1,10 @@
 # Docker Compose Deployment
 
-**Status:** Authoritative beta packaging  
-**Audience:** Evaluators and small-installation operators  
-**Owner:** Operations maintainers
+**Status:** Authoritative beta packaging\
+**Authority:** Normative within its stated scope\
+**Audience:** Evaluators and small-installation operators\
+**Owner:** Operations maintainers\
+**Related:** [Operations index](./README.md)\
 
 ## Profiles
 

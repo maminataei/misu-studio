@@ -1,8 +1,10 @@
 # Authorization, Tenancy, and Row-Level Security
 
-**Status:** Authoritative  
-**Audience:** API, database, security, QA  
-**Owner:** Authorization area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** API, database, security, QA\
+**Owner:** Authorization area\
+**Related:** [Security index](./README.md)\
 
 ## Authorization model
 

@@ -1,8 +1,10 @@
 # Repository and Package Boundaries
 
-**Status:** Authoritative  
-**Audience:** Maintainers and implementers  
-**Owner:** Architecture maintainers
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Maintainers and implementers\
+**Owner:** Architecture maintainers\
+**Related:** [Architecture index](./README.md)\
 
 ## Workspace
 

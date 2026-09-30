@@ -1,5 +1,11 @@
 # Glossary
 
+**Status:** Authoritative\
+**Authority:** Normative terminology for all Commerce Studio documents\
+**Audience:** All contributors, integrators, and operators\
+**Owner:** Commerce Studio maintainers\
+**Related:** [Documentation index](./README.md)\
+
 | Term | Meaning |
 | --- | --- |
 | Commerce Studio | The self-hosted authoring and publication control plane. |

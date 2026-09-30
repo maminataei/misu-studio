@@ -1,8 +1,10 @@
 # Integration Policy
 
-**Status:** Authoritative protocol  
-**Audience:** Platform integrators, editor, validation, publication  
-**Owner:** Integration policy area
+**Status:** Authoritative protocol\
+**Authority:** Normative within its stated scope\
+**Audience:** Platform integrators, editor, validation, publication\
+**Owner:** Integration policy area\
+**Related:** [Specifications index](./README.md)\
 
 ## Purpose
 

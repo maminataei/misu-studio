@@ -1,8 +1,10 @@
 # Testing Strategy
 
-**Status:** Authoritative  
-**Audience:** Engineering, QA, security, release  
-**Owner:** Quality maintainers
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Engineering, QA, security, release\
+**Owner:** Quality maintainers\
+**Related:** [Delivery index](./README.md)\
 
 ## Test pyramid
 

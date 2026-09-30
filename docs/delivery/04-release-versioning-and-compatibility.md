@@ -1,8 +1,10 @@
 # Release, Versioning, and Compatibility
 
-**Status:** Authoritative  
-**Audience:** Maintainers, release engineering, integrators, operators  
-**Owner:** Release maintainers
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Maintainers, release engineering, integrators, operators\
+**Owner:** Release maintainers\
+**Related:** [Delivery index](./README.md)\
 
 ## Version train
 

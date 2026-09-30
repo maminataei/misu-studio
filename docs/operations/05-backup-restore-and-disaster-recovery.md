@@ -1,8 +1,10 @@
 # Backup, Restore, and Disaster Recovery
 
-**Status:** Authoritative  
-**Audience:** Operators and security  
-**Owner:** Reliability area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Operators and security\
+**Owner:** Reliability area\
+**Related:** [Operations index](./README.md)\
 
 ## Backup set
 

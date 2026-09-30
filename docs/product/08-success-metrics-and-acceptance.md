@@ -1,8 +1,10 @@
 # Success Metrics and Acceptance
 
-**Status:** Authoritative  
-**Audience:** Product, engineering, QA, operators  
-**Owner:** Product and quality maintainers
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Product, engineering, QA, operators\
+**Owner:** Product and quality maintainers\
+**Related:** [Product index](./README.md)\
 
 ## Product success
 

@@ -1,8 +1,10 @@
 # Commerce Contracts and Modules
 
-**Status:** Authoritative protocol  
-**Audience:** Contract authors, renderer developers, integrators  
-**Owner:** Contract protocol area
+**Status:** Authoritative protocol\
+**Authority:** Normative within its stated scope\
+**Audience:** Contract authors, renderer developers, integrators\
+**Owner:** Contract protocol area\
+**Related:** [Specifications index](./README.md)\
 
 ## Contract contents
 

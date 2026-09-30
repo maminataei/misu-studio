@@ -1,8 +1,10 @@
 # Preview Adapter Protocol
 
-**Status:** Authoritative protocol  
-**Audience:** Web SDK, editor, preview implementers, security  
-**Owner:** Preview protocol area
+**Status:** Authoritative protocol\
+**Authority:** Normative within its stated scope\
+**Audience:** Web SDK, editor, preview implementers, security\
+**Owner:** Preview protocol area\
+**Related:** [Specifications index](./README.md)\
 
 ## Transport
 

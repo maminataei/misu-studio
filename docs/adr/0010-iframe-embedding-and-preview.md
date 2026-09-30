@@ -1,7 +1,11 @@
 # ADR-0010: Iframe Embedding and Preview
 
-**Status:** Accepted  
-**Date:** 2026-09-30
+**Status:** Accepted\
+**Authority:** Normative architectural decision\
+**Audience:** Contributors, reviewers, and implementers\
+**Owner:** Architecture maintainers\
+**Related:** [Preview adapter protocol](../specifications/05-preview-adapter-protocol.md)\
+**Date:** 2026-09-30\
 
 ## Context
 

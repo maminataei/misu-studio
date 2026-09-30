@@ -1,8 +1,10 @@
 # Localization, Responsive Behavior, and SEO
 
-**Status:** Authoritative protocol  
-**Audience:** Core, editor, renderer, content, QA  
-**Owner:** Presentation semantics area
+**Status:** Authoritative protocol\
+**Authority:** Normative within its stated scope\
+**Audience:** Core, editor, renderer, content, QA\
+**Owner:** Presentation semantics area\
+**Related:** [Specifications index](./README.md)\
 
 ## Locale configuration
 

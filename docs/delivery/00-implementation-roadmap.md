@@ -1,8 +1,10 @@
 # Implementation Roadmap
 
-**Status:** Authoritative delivery sequence  
-**Audience:** Engineering and program leadership  
-**Owner:** Delivery maintainers
+**Status:** Authoritative delivery sequence\
+**Authority:** Normative within its stated scope\
+**Audience:** Engineering and program leadership\
+**Owner:** Delivery maintainers\
+**Related:** [Delivery index](./README.md)\
 
 Each phase exits only with its tests, documentation, and migration evidence.
 Slices should remain vertically demonstrable; unfinished later features do not

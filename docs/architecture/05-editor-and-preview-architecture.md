@@ -1,8 +1,10 @@
 # Editor and Preview Architecture
 
-**Status:** Authoritative  
-**Audience:** Editor, SDK, renderer, and security engineers  
-**Owner:** Editor architecture area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Editor, SDK, renderer, and security engineers\
+**Owner:** Editor architecture area\
+**Related:** [Architecture index](./README.md)\
 
 ## Editor state
 

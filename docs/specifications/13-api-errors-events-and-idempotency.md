@@ -1,8 +1,10 @@
 # API Errors, Events, and Idempotency
 
-**Status:** Authoritative protocol  
-**Audience:** API, SDK, editor, integration developers  
-**Owner:** API protocol area
+**Status:** Authoritative protocol\
+**Authority:** Normative within its stated scope\
+**Audience:** API, SDK, editor, integration developers\
+**Owner:** API protocol area\
+**Related:** [Specifications index](./README.md)\
 
 ## API envelope
 

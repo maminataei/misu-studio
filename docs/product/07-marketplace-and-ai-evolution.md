@@ -1,8 +1,10 @@
 # Marketplace and AI Evolution
 
-**Status:** Authoritative future direction  
-**Audience:** Product, ecosystem, security, architecture  
-**Owner:** Ecosystem maintainers
+**Status:** Authoritative future direction\
+**Authority:** Normative within its stated scope\
+**Audience:** Product, ecosystem, security, architecture\
+**Owner:** Ecosystem maintainers\
+**Related:** [Product index](./README.md)\
 
 ## Beta boundary
 

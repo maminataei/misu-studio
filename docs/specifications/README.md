@@ -1,8 +1,10 @@
 # Protocol and Schema Specifications
 
-**Status:** Authoritative  
-**Audience:** Core, API, editor, SDK, renderer, and integration implementers  
-**Owner:** Protocol maintainers
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Core, API, editor, SDK, renderer, and integration implementers\
+**Owner:** Protocol maintainers\
+**Related:** [Documentation index](../README.md)\
 
 These documents define portable behavior. Conceptual TypeScript illustrates
 wire shape but committed JSON Schema is the machine-readable authority once

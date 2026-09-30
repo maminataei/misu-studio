@@ -1,8 +1,10 @@
 # Configuration Reference
 
-**Status:** Authoritative  
-**Audience:** Operators, release engineering, security  
-**Owner:** Operations maintainers
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Operators, release engineering, security\
+**Owner:** Operations maintainers\
+**Related:** [Operations index](./README.md)\
 
 ## Rules
 

@@ -1,5 +1,11 @@
 # Commerce Studio Documentation
 
+**Status:** Authoritative\
+**Authority:** Normative documentation precedence and navigation\
+**Audience:** All contributors, integrators, and operators\
+**Owner:** Commerce Studio maintainers\
+**Related:** [Project overview](../README.md)\
+
 ## Authority
 
 This directory is the implementation source of truth. Product documents define
@@ -26,3 +32,16 @@ deployment. ADRs explain why durable choices were made.
 - Configurable behavior MUST identify its owning configuration and default.
 
 Implementation code, examples, and UI copy cannot override these documents.
+
+## Document contract
+
+Every Markdown document declares its status, authority, audience, owner, and
+related material. Normative documents define their purpose and scope, state
+requirements and invariants with the vocabulary above, describe contracts,
+flows, failure, security, compatibility, and testable acceptance where those
+topics apply.
+
+Deferred post-beta decisions and open questions MUST use separate headings.
+The absence of either heading means that the document has no items in that
+category; ambiguity in normative behavior is a defect, not an implicit open
+question.

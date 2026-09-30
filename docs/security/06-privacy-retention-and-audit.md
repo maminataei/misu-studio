@@ -1,8 +1,10 @@
 # Privacy, Retention, and Audit
 
-**Status:** Authoritative  
-**Audience:** Security, product, operations, compliance  
-**Owner:** Data governance area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Security, product, operations, compliance\
+**Owner:** Data governance area\
+**Related:** [Security index](./README.md)\
 
 ## Data minimization
 

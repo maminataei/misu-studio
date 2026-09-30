@@ -1,8 +1,10 @@
 # Readiness, Approval, and Publication
 
-**Status:** Authoritative protocol  
-**Audience:** API, worker, editor, renderer, audit, QA  
-**Owner:** Publication area
+**Status:** Authoritative protocol\
+**Authority:** Normative within its stated scope\
+**Audience:** API, worker, editor, renderer, audit, QA\
+**Owner:** Publication area\
+**Related:** [Specifications index](./README.md)\
 
 ## Readiness request
 

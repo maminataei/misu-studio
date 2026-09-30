@@ -1,8 +1,10 @@
 # Schema Versioning and Migrations
 
-**Status:** Authoritative protocol  
-**Audience:** Core, contract, persistence, release, renderer  
-**Owner:** Compatibility area
+**Status:** Authoritative protocol\
+**Authority:** Normative within its stated scope\
+**Audience:** Core, contract, persistence, release, renderer\
+**Owner:** Compatibility area\
+**Related:** [Specifications index](./README.md)\
 
 ## Independent versions
 

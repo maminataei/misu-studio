@@ -1,5 +1,11 @@
 # Code of Conduct
 
+**Status:** Active\
+**Authority:** Normative community conduct policy\
+**Audience:** All project participants\
+**Owner:** Commerce Studio maintainers\
+**Related:** [Governance](./GOVERNANCE.md)\
+
 ## Our standard
 
 Participants MUST contribute in a respectful, inclusive, and professional

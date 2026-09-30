@@ -1,8 +1,10 @@
 # Component and Manifest SDK
 
-**Status:** Authoritative SDK contract  
-**Audience:** Contract, component, and renderer developers  
-**Owner:** SDK maintainers
+**Status:** Authoritative SDK contract\
+**Authority:** Normative within its stated scope\
+**Audience:** Contract, component, and renderer developers\
+**Owner:** SDK maintainers\
+**Related:** [Integrations index](./README.md)\
 
 ## Purpose
 

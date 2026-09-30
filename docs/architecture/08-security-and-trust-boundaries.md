@@ -1,8 +1,10 @@
 # Security and Trust Boundaries
 
-**Status:** Authoritative  
-**Audience:** Security, platform, editor, renderer, operations  
-**Owner:** Security maintainers
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Security, platform, editor, renderer, operations\
+**Owner:** Security maintainers\
+**Related:** [Architecture index](./README.md)\
 
 ## Trust domains
 

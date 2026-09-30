@@ -1,7 +1,11 @@
 # ADR-0015: Local, OIDC, and Embedded Identity
 
-**Status:** Accepted  
-**Date:** 2026-09-30
+**Status:** Accepted\
+**Authority:** Normative architectural decision\
+**Audience:** Contributors, reviewers, and implementers\
+**Owner:** Architecture maintainers\
+**Related:** [Authentication and embedding](../security/01-authentication-sessions-and-embedding.md)\
+**Date:** 2026-09-30\
 
 ## Context
 

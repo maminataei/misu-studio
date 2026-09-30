@@ -1,8 +1,10 @@
 # Template-Builder Experience
 
-**Status:** Authoritative  
-**Audience:** Product design, editor engineering, accessibility, QA  
-**Owner:** Editor product area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Product design, editor engineering, accessibility, QA\
+**Owner:** Editor product area\
+**Related:** [Product index](./README.md)\
 
 ## Model
 

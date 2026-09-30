@@ -1,5 +1,11 @@
 # Governance
 
+**Status:** Active\
+**Authority:** Normative project governance policy\
+**Audience:** Contributors, maintainers, and users\
+**Owner:** Commerce Studio maintainers\
+**Related:** [Contributing](./CONTRIBUTING.md)\
+
 ## Project model
 
 Commerce Studio is an Apache-2.0 open-source project. Maintainers steward the

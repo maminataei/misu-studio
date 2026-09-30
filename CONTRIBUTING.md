@@ -1,5 +1,11 @@
 # Contributing to Commerce Studio
 
+**Status:** Active\
+**Authority:** Normative repository contribution policy\
+**Audience:** Contributors and maintainers\
+**Owner:** Commerce Studio maintainers\
+**Related:** [Governance](./GOVERNANCE.md)\
+
 ## Authority
 
 This guide governs contributions to this repository. Normative product and

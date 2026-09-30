@@ -1,8 +1,10 @@
 # Data Binding and Action Model
 
-**Status:** Authoritative protocol  
-**Audience:** Contract, renderer, integration, security  
-**Owner:** Host interaction area
+**Status:** Authoritative protocol\
+**Authority:** Normative within its stated scope\
+**Audience:** Contract, renderer, integration, security\
+**Owner:** Host interaction area\
+**Related:** [Specifications index](./README.md)\
 
 ## Bindings
 

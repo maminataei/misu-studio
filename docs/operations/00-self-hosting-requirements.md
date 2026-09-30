@@ -1,8 +1,10 @@
 # Self-Hosting Requirements
 
-**Status:** Authoritative  
-**Audience:** Operators and platform engineers  
-**Owner:** Operations maintainers
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Operators and platform engineers\
+**Owner:** Operations maintainers\
+**Related:** [Operations index](./README.md)\
 
 ## Required services
 

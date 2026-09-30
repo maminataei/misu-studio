@@ -1,7 +1,11 @@
 # ADR-0009: PostgreSQL-Backed Workers
 
-**Status:** Accepted  
-**Date:** 2026-09-30
+**Status:** Accepted\
+**Authority:** Normative architectural decision\
+**Audience:** Contributors, reviewers, and implementers\
+**Owner:** Architecture maintainers\
+**Related:** [Control-plane architecture](../architecture/04-control-plane-and-worker-runtime.md)\
+**Date:** 2026-09-30\
 
 ## Context
 

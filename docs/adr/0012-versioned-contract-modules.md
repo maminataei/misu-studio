@@ -1,7 +1,11 @@
 # ADR-0012: Base Contract Plus Versioned Modules
 
-**Status:** Accepted  
-**Date:** 2026-09-30
+**Status:** Accepted\
+**Authority:** Normative architectural decision\
+**Audience:** Contributors, reviewers, and implementers\
+**Owner:** Architecture maintainers\
+**Related:** [Commerce contracts and modules](../specifications/01-commerce-contracts-and-modules.md)\
+**Date:** 2026-09-30\
 
 ## Context
 

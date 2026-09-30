@@ -1,8 +1,10 @@
 # Runtime Map Delivery and Webhooks
 
-**Status:** Authoritative protocol  
-**Audience:** API, renderer, integration, operations  
-**Owner:** Runtime delivery area
+**Status:** Authoritative protocol\
+**Authority:** Normative within its stated scope\
+**Audience:** API, renderer, integration, operations\
+**Owner:** Runtime delivery area\
+**Related:** [Specifications index](./README.md)\
 
 ## Authentication
 

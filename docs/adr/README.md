@@ -1,8 +1,10 @@
 # Architecture Decision Records
 
-**Status:** Authoritative decision history  
-**Audience:** Contributors and reviewers  
-**Owner:** Architecture maintainers
+**Status:** Authoritative decision history\
+**Authority:** Normative within its stated scope\
+**Audience:** Contributors and reviewers\
+**Owner:** Architecture maintainers\
+**Related:** [Documentation index](../README.md)\
 
 An ADR records one durable choice, its context, consequences, and rejected
 alternatives. Accepted ADRs remain immutable except for status and links to a

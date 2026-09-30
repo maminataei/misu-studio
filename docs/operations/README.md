@@ -1,8 +1,10 @@
 # Operations
 
-**Status:** Authoritative operator contract  
-**Audience:** Self-hosted operators and reliability engineers  
-**Owner:** Operations maintainers
+**Status:** Authoritative operator contract\
+**Authority:** Normative within its stated scope\
+**Audience:** Self-hosted operators and reliability engineers\
+**Owner:** Operations maintainers\
+**Related:** [Documentation index](../README.md)\
 
 1. [Requirements](./00-self-hosting-requirements.md)
 2. [Docker Compose](./01-docker-compose-deployment.md)

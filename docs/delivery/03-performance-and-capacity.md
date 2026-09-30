@@ -1,8 +1,10 @@
 # Performance and Capacity
 
-**Status:** Authoritative beta target  
-**Audience:** Engineering, QA, operators  
-**Owner:** Performance area
+**Status:** Authoritative beta target\
+**Authority:** Normative within its stated scope\
+**Audience:** Engineering, QA, operators\
+**Owner:** Performance area\
+**Related:** [Delivery index](./README.md)\
 
 ## Workload
 

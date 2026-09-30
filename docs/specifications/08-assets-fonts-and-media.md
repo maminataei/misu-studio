@@ -1,8 +1,10 @@
 # Assets, Fonts, and Media
 
-**Status:** Authoritative protocol  
-**Audience:** Asset service, editor, renderer, operations, security  
-**Owner:** Asset area
+**Status:** Authoritative protocol\
+**Authority:** Normative within its stated scope\
+**Audience:** Asset service, editor, renderer, operations, security\
+**Owner:** Asset area\
+**Related:** [Specifications index](./README.md)\
 
 ## Asset identity
 

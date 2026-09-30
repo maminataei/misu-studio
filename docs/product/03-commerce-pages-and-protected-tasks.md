@@ -1,8 +1,10 @@
 # Commerce Pages and Protected Tasks
 
-**Status:** Authoritative  
-**Audience:** Product, contract authors, renderer developers, QA  
-**Owner:** Commerce contract area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Product, contract authors, renderer developers, QA\
+**Owner:** Commerce contract area\
+**Related:** [Product index](./README.md)\
 
 ## Full-journey scope
 

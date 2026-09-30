@@ -1,8 +1,10 @@
 # Renderer Release Manifest
 
-**Status:** Authoritative protocol  
-**Audience:** Renderer and registry developers  
-**Owner:** Renderer protocol area
+**Status:** Authoritative protocol\
+**Authority:** Normative within its stated scope\
+**Audience:** Renderer and registry developers\
+**Owner:** Renderer protocol area\
+**Related:** [Specifications index](./README.md)\
 
 ## Purpose
 

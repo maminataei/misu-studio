@@ -1,8 +1,10 @@
 # Users, Roles, and Journeys
 
-**Status:** Authoritative  
-**Audience:** Product, UX, API, authorization, QA  
-**Owner:** Product maintainers
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Product, UX, API, authorization, QA\
+**Owner:** Product maintainers\
+**Related:** [Product index](./README.md)\
 
 ## Actors
 

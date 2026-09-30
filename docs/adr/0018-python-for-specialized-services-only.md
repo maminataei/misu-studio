@@ -1,7 +1,11 @@
 # ADR-0018: Python for Specialized Services Only
 
-**Status:** Accepted  
-**Date:** 2026-09-30
+**Status:** Accepted\
+**Authority:** Normative architectural decision\
+**Audience:** Contributors, reviewers, and implementers\
+**Owner:** Architecture maintainers\
+**Related:** [Package boundaries](../architecture/01-repository-and-package-boundaries.md)\
+**Date:** 2026-09-30\
 
 ## Context
 
@@ -30,5 +34,5 @@ optional capability they serve.
 
 ## References
 
-- [FastAPI OpenAPI and JSON Schema](https://fastapi.tiangolo.com/tutorial/first-steps/)
+- [FastAPI](https://github.com/fastapi/fastapi#readme)
 - [SQLAlchemy asyncio](https://docs.sqlalchemy.org/en/20/orm/extensions/asyncio.html)

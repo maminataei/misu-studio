@@ -1,8 +1,10 @@
 # Renderer Ecosystem
 
-**Status:** Authoritative  
-**Audience:** Contract and renderer authors  
-**Owner:** Renderer ecosystem area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Contract and renderer authors\
+**Owner:** Renderer ecosystem area\
+**Related:** [Architecture index](./README.md)\
 
 ## Separation of artifacts
 

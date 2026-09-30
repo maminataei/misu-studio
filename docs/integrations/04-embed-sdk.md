@@ -1,8 +1,10 @@
 # Embed SDK
 
-**Status:** Authoritative SDK contract  
-**Audience:** Host frontend and backend engineers  
-**Owner:** Web SDK area
+**Status:** Authoritative SDK contract\
+**Authority:** Normative within its stated scope\
+**Audience:** Host frontend and backend engineers\
+**Owner:** Web SDK area\
+**Related:** [Integrations index](./README.md)\
 
 ## Package
 

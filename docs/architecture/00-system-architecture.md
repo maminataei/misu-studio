@@ -1,9 +1,10 @@
 # System Architecture
 
-**Status:** Authoritative  
-**Audience:** All technical contributors  
-**Owner:** Architecture maintainers  
-**Related:** [Product charter](../product/00-product-charter.md)
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** All technical contributors\
+**Owner:** Architecture maintainers\
+**Related:** [Product charter](../product/00-product-charter.md)\
 
 ## Architectural thesis
 

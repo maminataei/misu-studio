@@ -1,8 +1,10 @@
 # Integrations
 
-**Status:** Authoritative integration guidance  
-**Audience:** Commerce platforms, renderer authors, SDK users  
-**Owner:** Integration maintainers
+**Status:** Authoritative integration guidance\
+**Authority:** Normative within its stated scope\
+**Audience:** Commerce platforms, renderer authors, SDK users\
+**Owner:** Integration maintainers\
+**Related:** [Documentation index](../README.md)\
 
 Integrations connect host identity, renderer implementations, preview fixtures,
 commerce data/actions, and runtime delivery without moving operational truth

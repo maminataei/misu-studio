@@ -1,7 +1,11 @@
 # ADR-0002: Semantic Maps, Not Generated Websites
 
-**Status:** Accepted  
-**Date:** 2026-09-30
+**Status:** Accepted\
+**Authority:** Normative architectural decision\
+**Audience:** Contributors, reviewers, and implementers\
+**Owner:** Architecture maintainers\
+**Related:** [Template-map specification](../specifications/00-template-map.md)\
+**Date:** 2026-09-30\
 
 ## Context
 

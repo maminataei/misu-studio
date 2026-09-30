@@ -1,8 +1,10 @@
 # Authentication, Sessions, and Embedding
 
-**Status:** Authoritative  
-**Audience:** Identity, API, SDK, integrators  
-**Owner:** Identity security area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Identity, API, SDK, integrators\
+**Owner:** Identity security area\
+**Related:** [Security index](./README.md)\
 
 ## Local and OIDC identity
 

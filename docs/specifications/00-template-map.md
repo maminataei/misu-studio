@@ -1,8 +1,10 @@
 # Template Map
 
-**Status:** Authoritative protocol  
-**Audience:** Core, editor, contract, renderer, SDK  
-**Owner:** Map protocol area
+**Status:** Authoritative protocol\
+**Authority:** Normative within its stated scope\
+**Audience:** Core, editor, contract, renderer, SDK\
+**Owner:** Map protocol area\
+**Related:** [Specifications index](./README.md)\
 
 ## Envelope
 

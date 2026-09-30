@@ -1,8 +1,10 @@
 # Collaboration, History, and Publication
 
-**Status:** Authoritative  
-**Audience:** Product, editor, API, audit, QA  
-**Owner:** Authoring lifecycle area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Product, editor, API, audit, QA\
+**Owner:** Authoring lifecycle area\
+**Related:** [Product index](./README.md)\
 
 ## Collaboration model
 

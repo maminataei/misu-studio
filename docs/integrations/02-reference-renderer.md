@@ -1,8 +1,10 @@
 # Reference Renderer
 
-**Status:** Authoritative beta proof  
-**Audience:** Renderer developers, QA, maintainers  
-**Owner:** Reference integration area
+**Status:** Authoritative beta proof\
+**Authority:** Normative within its stated scope\
+**Audience:** Renderer developers, QA, maintainers\
+**Owner:** Reference integration area\
+**Related:** [Integrations index](./README.md)\
 
 ## Purpose
 

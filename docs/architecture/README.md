@@ -1,8 +1,10 @@
 # Architecture
 
-**Status:** Authoritative  
-**Audience:** Implementers, reviewers, operators, integrators  
-**Owner:** Architecture maintainers
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Implementers, reviewers, operators, integrators\
+**Owner:** Architecture maintainers\
+**Related:** [Documentation index](../README.md)\
 
 Architecture documents allocate responsibility. Portable wire behavior belongs
 in [specifications](../specifications/README.md); product outcomes belong in

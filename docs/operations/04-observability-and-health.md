@@ -1,8 +1,10 @@
 # Observability and Health
 
-**Status:** Authoritative  
-**Audience:** Operators, reliability, security  
-**Owner:** Observability area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Operators, reliability, security\
+**Owner:** Observability area\
+**Related:** [Operations index](./README.md)\
 
 ## Signals
 

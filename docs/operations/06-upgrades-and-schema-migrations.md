@@ -1,8 +1,10 @@
 # Upgrades and Schema Migrations
 
-**Status:** Authoritative  
-**Audience:** Release engineering and operators  
-**Owner:** Release operations area
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Release engineering and operators\
+**Owner:** Release operations area\
+**Related:** [Operations index](./README.md)\
 
 ## Release inputs
 

@@ -1,8 +1,10 @@
 # Beta Scope and Exit Gates
 
-**Status:** Authoritative  
-**Audience:** Product, engineering, QA, release  
-**Owner:** Delivery maintainers
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Product, engineering, QA, release\
+**Owner:** Delivery maintainers\
+**Related:** [Delivery index](./README.md)\
 
 ## Included
 

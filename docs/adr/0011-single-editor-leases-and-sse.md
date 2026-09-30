@@ -1,7 +1,11 @@
 # ADR-0011: Fenced Lease and SSE
 
-**Status:** Accepted  
-**Date:** 2026-09-30
+**Status:** Accepted\
+**Authority:** Normative architectural decision\
+**Audience:** Contributors, reviewers, and implementers\
+**Owner:** Architecture maintainers\
+**Related:** [Command protocol](../specifications/04-command-and-changeset-protocol.md)\
+**Date:** 2026-09-30\
 
 ## Context
 

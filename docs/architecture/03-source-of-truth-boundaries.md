@@ -1,8 +1,10 @@
 # Source-of-Truth Boundaries
 
-**Status:** Authoritative  
-**Audience:** Product, platform, renderer, security  
-**Owner:** Architecture maintainers
+**Status:** Authoritative\
+**Authority:** Normative within its stated scope\
+**Audience:** Product, platform, renderer, security\
+**Owner:** Architecture maintainers\
+**Related:** [Architecture index](./README.md)\
 
 | Concern | Authority | Version behavior |
 | --- | --- | --- |
