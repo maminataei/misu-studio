@@ -1,0 +1,31 @@
+# ADR-0008: PostgreSQL and Kysely Persistence
+
+**Status:** Accepted  
+**Date:** 2026-09-30
+
+## Context
+
+Studio needs relational constraints, JSONB, row locking, idempotency,
+tenant-aware queries, immutable versions, row-level security, and precise
+publication transactions.
+
+## Decision
+
+Use PostgreSQL as the system of record, Kysely for typed application SQL, and
+reviewed SQL migrations for schema evolution and database security.
+
+## Consequences
+
+Database behavior remains visible and controllable. The team owns repository
+mapping and migration discipline rather than relying on an active-record ORM.
+
+## Rejected alternatives
+
+- Prisma ORM.
+- Document database as the system of record.
+- Raw node-postgres without a typed query layer.
+
+## References
+
+- [Kysely](https://kysely.dev/docs/getting-started)
+- [PostgreSQL row security](https://www.postgresql.org/docs/current/ddl-rowsecurity.html)
